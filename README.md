@@ -14,7 +14,7 @@ Nikhila K S - CSE-2
 
 Nikita Garg
 
-Nikita Mendhi
+Nikita Medhi - CSE-2
 
 Nitya Pasrija- IT, B.Tech
 
