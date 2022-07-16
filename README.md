@@ -26,6 +26,6 @@ Shreel Trivedi
 
 Shruti Rana 
 
-Shuchita Bhutani 
+Shuchita Bhutani -ECE BTech
 
 Simran Joon
