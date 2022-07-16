@@ -16,7 +16,7 @@ Nikita Garg
 
 Nikita Mendhi
 
-Nitya Pasrija
+Nitya Pasrija- IT, B.Tech
 
 Sehaj
 
