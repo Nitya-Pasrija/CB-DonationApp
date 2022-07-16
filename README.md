@@ -10,7 +10,7 @@ Also ref: https://pin.it/7keXb4u
 
 Contributors: 
 
-Nikhila K S - CSE-2
+Nikhila K S - CSE-2 , B.Tech
 
 Nikita Garg
 
