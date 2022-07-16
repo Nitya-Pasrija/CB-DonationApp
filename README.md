@@ -29,3 +29,7 @@ Shruti Rana
 Shuchita Bhutani -ECE BTech
 
 Simran Joon
+
+# WEEKWISE WORKFLOW 
+- Week 1 - Wireframe designing
+- Week 2 - 
