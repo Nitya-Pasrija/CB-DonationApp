@@ -20,7 +20,7 @@ Nitya Pasrija- IT, B.Tech
 
 Sehaj
 
-Shikha Singh 
+Shikha Singh - MAE, B.Tech
 
 Shreel Trivedi 
 
