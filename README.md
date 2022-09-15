@@ -1,31 +1,16 @@
-# CB-DonationApp
-A Donation App using Flutter and Firebase. This project will be mentored by CB(Celestial Biscuit), IGDTUW.
+# cbigdtuw
 
-Objectives: A donation app, where you can donate books, e-courses, food, electronics and clothes. The app will route you to the nearest location of the donation drives.
+donation form for cbigdtuw
 
-The Canva Slides for the ref MockUp is attached here: https://www.canva.com/design/DAFD8JGYGRQ/mNBeiPp7yGDPegH0kI0Gig/edit?utm_content=DAFD8JGYGRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## Getting Started
 
-Theme Ref: https://github.com/CRED-CLUB/neopop-web
-Also ref: https://pin.it/7keXb4u
+This project is a starting point for a Flutter application.
 
-Contributors: 
+A few resources to get you started if this is your first Flutter project:
 
-Nikhila K S 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Nikita Garg
-
-Nikita Mendhi
-
-Nitya Pasrija
-
-Sehaj
-
-Shikha Singh 
-
-Shreel Trivedi 
-
-Shruti Rana 
-
-Shuchita Bhutani -ECE BTech
-
-Simran Joon
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
