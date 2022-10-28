@@ -1,6 +1,7 @@
 import 'forgotpswd.dart';
 import 'package:flutter/material.dart';
 import 'signup.dart';
+import 'Home_Page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
@@ -111,7 +112,7 @@ class _LoginPageState extends State<LoginPage> {
                                 );
                                 Navigator.push(context,
                                   MaterialPageRoute(builder:
-                                      (context) => LoginPage(),),);
+                                      (context) => Home(),),);
                               },
                               child: Text('Log in',
                                 style: TextStyle(color:
